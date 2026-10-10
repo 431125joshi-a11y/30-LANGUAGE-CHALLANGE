@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(2, 2, 60);
+    color: beige;
+    font-size: 36px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+.aboutme{
+    border: 2px solid #FFD700;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+}s
+.h1{
+   justify-content: flex-start
+}
